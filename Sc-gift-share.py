@@ -1,6 +1,6 @@
-#Gift By : Asraful Islam Hasan
+#Gift By : MUNNA
 #Github : https://github.com/KgHasan
-#Fb Id    : Hasa N
+#Fb Id    : MAHMUD
 #Auto Share Sc Gift 
 ###----------[ IMPORT LIBRARY ]---------- ###
 import requests, os, re, bs4, calendar, sys, json, time, random, datetime, subprocess, logging, base64,uuid
